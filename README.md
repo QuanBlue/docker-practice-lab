@@ -4,7 +4,7 @@
   <b>Docker lab</b>
 </h1>
 
-<p align="center">Docker lab for practice from <a href="https://dockerlabs.collabnix.com/">dockerlabs</a></p>
+<p align="center">Docker lab for practice from <a href="https://dockerlabs.collabnix.com/">Dockerlabs</a></p>
 
 <p align="center">
   <b>

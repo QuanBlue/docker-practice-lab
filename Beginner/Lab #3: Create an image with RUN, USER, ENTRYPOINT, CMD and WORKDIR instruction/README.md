@@ -1,4 +1,4 @@
-# Lab #4: Create an image with WORKDIR, USER, RUN, CMD, ENTRYPOINT instruction
+# Lab #3: Create an image with WORKDIR, USER, RUN, CMD, ENTRYPOINT instruction
 
 ## Introduction
 
@@ -74,13 +74,13 @@ ENTRYPOINT <command> <param1> <param2>
 Build image
 
 ```sh
-docker build -t lab4:v1 .
+docker build -t lab3:v1 .
 ```
 
 Run container
 
 ```sh
-docker run lab4:v1
+docker run lab3:v1
 ```
 
 ---

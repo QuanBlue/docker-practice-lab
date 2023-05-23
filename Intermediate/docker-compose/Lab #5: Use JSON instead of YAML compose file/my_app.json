@@ -1,0 +1,12 @@
+{
+   "version": "3.1",
+   "services": {
+      "webserver": {
+         "build": ".",
+         "image": "nginx",
+         "container_name": "nginx_wb",
+         "restart": "unless-stopped",
+         "ports": ["80:80", "443:443"]
+      }
+   }
+}

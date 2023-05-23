@@ -1,4 +1,4 @@
-# Lab #12 Writing Dockerfile with Hello Python Script Added
+# Lab #7 Writing Dockerfile with Hello Python Script Added
 
 ## Assignment
 
@@ -9,13 +9,13 @@ Writing Dockerfile with Hello Python Script Added
 Build Docker Image
 
 ```sh
-docker build -t lab12:v1 .
+docker build -t lab7:v1 .
 ```
 
 Run container
 
 ```sh
-docker run lab12:v1
+docker run lab7:v1
 ```
 
 ---

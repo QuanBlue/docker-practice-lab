@@ -1,4 +1,4 @@
-# Lab #10: VOLUME instruction
+# Lab #5: VOLUME instruction
 
 ## Introduction
 

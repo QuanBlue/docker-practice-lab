@@ -1,4 +1,4 @@
-# Lab #8: Create an image with ARG, ENV instruction
+# Lab #4: Create an image with ARG, ENV instruction
 
 ## Introduction
 
@@ -28,13 +28,13 @@ Building Docker Image
 -  With default argument
 
    ```sh
-   docker build -t lab8:v1 .
+   docker build -t lab4:v1 .
    ```
 
 -  Passing the `argument` during image build time
 
    ```sh
-   docker build -t lab8:v1 --build-arg WELCOME_USER=Docker .
+   docker build -t lab4:v1 --build-arg WELCOME_USER=Docker .
    ```
 
 Running container
@@ -42,12 +42,12 @@ Running container
 -  Normal
 
    ```sh
-   docker run lab8:v1
+   docker run lab4:v1
    ```
 
 -  Override existing `env` while running container
    ```sh
-   docker run --env WELCOME_MESSAGE="[ENV] Welcome to Docker Workshop" lab8:v1
+   docker run --env WELCOME_MESSAGE="[ENV] Welcome to Docker Workshop" lab4:v1
    ```
 
 ---

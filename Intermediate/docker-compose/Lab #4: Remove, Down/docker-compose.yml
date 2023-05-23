@@ -1,0 +1,26 @@
+version: "3.1"
+services:
+   #Nginx Service
+   webserver:
+      build: .
+      image: nginx
+      container_name: nginx_wb
+      restart: unless-stopped
+      ports:
+         - "80:80"
+         - "443:443"
+   dbserver:
+      image: mysql:5.7
+      container_name: mysql_db
+      restart: unless-stopped
+      ports:
+         - "3306:3306"
+      environment:
+         MYSQL_ROOT_PASSWORD: Pa$$w0rd
+         MYSQL_USER: test
+         MYSQL_PASSWORD: Pa$$w0rd123
+         MYSQL_DATABASE: test
+      volumes:
+         - db_data:/var/lib/mysql
+volumes:
+   db_data:

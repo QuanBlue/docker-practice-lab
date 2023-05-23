@@ -1,4 +1,4 @@
-# Lab #11: EXPOSE instruction
+# Lab #6: EXPOSE instruction
 
 ## Introduction
 

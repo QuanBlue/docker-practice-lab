@@ -1,0 +1,12 @@
+version: "2.1"
+services:
+   webServer:
+      image: nginx:alpine # pull image from docker hub
+      container_name: webserver # naming the container
+      restart: unless-stopped # restart the container unless it is stopped
+      ports:
+         - "80:80"
+         - "443:443"
+   helloMessage:
+      build: .
+      image: quanblue/hello:v1 # you must name the image with your docker hub username: <username>/<image name>:<version>

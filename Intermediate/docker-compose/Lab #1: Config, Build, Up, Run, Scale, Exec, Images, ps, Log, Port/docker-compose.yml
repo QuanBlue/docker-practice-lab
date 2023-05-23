@@ -1,0 +1,31 @@
+version: "3.1"
+services: # service name
+   #Nginx Service
+   webserver:
+      build: . # build from Dockerfile in current directory
+      image: nginx:v1 # naming:tagging the image
+      container_name: nginx_wb
+      restart: unless-stopped
+      ports:
+         - "80:80"
+         - "443:443"
+   dbserver:
+      image: mysql:5.7
+      container_name: mysql_db
+      restart: unless-stopped
+      ports:
+         - "3306:3306"
+      environment:
+         MYSQL_ROOT_PASSWORD: Pa$$w0rd
+         MYSQL_USER: test
+         MYSQL_PASSWORD: Pa$$w0rd123
+         MYSQL_DATABASE: test
+      volumes:
+         - db_data:/var/lib/mysql
+   redis-master:
+      image: redis:latest
+      restart: unless-stopped
+      ports:
+         - "6379"
+volumes:
+   db_data:

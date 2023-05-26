@@ -22,7 +22,7 @@ syntax: `docker-compose stop`
 The docker-compose `start` command help us to start containers of a service.  
 syntax: `docker-compose start`
 
-### Start
+### Restart
 
 The docker-compose `restart` command help us to restart the services.  
 syntax: `docker-compose restart`

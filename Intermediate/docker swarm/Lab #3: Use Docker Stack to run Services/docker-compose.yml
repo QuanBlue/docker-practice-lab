@@ -1,0 +1,29 @@
+version: "3.1"
+
+services:
+   dotnet:
+      image: ichte/swarmtest:dotnet
+      ports:
+         - "8085:8085"
+      deploy:
+         replicas: 5
+         resources:
+            limits:
+               cpus: "0.5"
+               memory: 50M
+            reservations:
+               cpus: "0.25"
+               memory: 20M
+   php:
+      image: ichte/swarmtest:php
+      ports:
+         - "8086:8085"
+      deploy:
+         replicas: 3
+         resources:
+            limits:
+               cpus: "0.5"
+               memory: 150M
+            reservations:
+               cpus: "0.25"
+               memory: 50M

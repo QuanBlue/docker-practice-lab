@@ -6,6 +6,12 @@
 -  Inspect nodes, services,...
 -  Scaling services
 
+## Note
+
+-  Only manager node can deploy service
+-  Node Manager will auto load balancing
+-  Worker node can only join the swarm and run service
+
 ## Instruction
 
 > Using 3 node create in [Lab #1](../Lab%20%231%3A%20Init%20and%20Manage%20Docker%20Swarm/)  

@@ -153,7 +153,6 @@ ID                            HOSTNAME   STATUS    AVAILABILITY   MANAGER STATUS
 7w9io9cg2v0ih8lb07wj315g0 *   manager    Ready     Active         Leader           24.0.2
 izapweuqdllr6g2z9nxtauebx     worker1    Ready     Active                          24.0.2
 62sikzh3njpkr4ydvp8q090gt     worker2    Ready     Active                          24.0.2
-
 ```
 
 ---
@@ -162,7 +161,3 @@ izapweuqdllr6g2z9nxtauebx     worker1    Ready     Active                       
 >
 > -  [XuanThuLab-youtube](https://www.youtube.com/watch?v=6a529awrb4Q&list=LL&index=13&t=314s&ab_channel=XuanThuLab)
 > -  [Docker-VPS](https://github.com/QuanBlue/Docker-VPS)
-
-```
-
-```

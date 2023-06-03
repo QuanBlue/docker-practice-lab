@@ -155,7 +155,7 @@ services:
                memory: 100M
 ```
 
-Update stack
+In Manager node: Update stack
 
 ```sh
 # Update stack

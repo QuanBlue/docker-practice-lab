@@ -41,15 +41,15 @@
 <details open>
 <summary><b>📖 Table of Contents</b></summary>
 
--  [Key Features](#star-key-features)
--  [Getting Started](#toolbox-getting-started)
-   -  [Prerequisites](#pushpin-prerequisites)
-   -  [Create Docker VPS](#hammer_and_wrench-create-docker-vps)
--  [Roadmap](#world_map-roadmap)
--  [Contributors](#busts_in_silhouette-contributors)
--  [Credits](#sparkles-credits)
--  [License](#scroll-license)
--  [Related Projects](#link-related-projects)
+-  [:star: Key Features](#star-key-features)
+-  [:toolbox: Getting Started](#toolbox-getting-started)
+   -  [:pushpin: Prerequisites](#pushpin-prerequisites)
+   -  [:hammer_and_wrench: Create Docker VPS](#hammer_and_wrench-create-docker-vps)
+-  [:world_map: Roadmap](#world_map-roadmap)
+-  [:busts_in_silhouette: Contributors](#busts_in_silhouette-contributors)
+-  [:sparkles: Credits](#sparkles-credits)
+-  [:scroll: License](#scroll-license)
+-  [:link: Related Projects](#link-related-projects)
 </details>
 
 # :star: Key Features
@@ -72,7 +72,6 @@
 
 -  [x] Docker for Beginner
 -  [x] Docker for Intermediate
--  [x] Emoji
 -  [ ] Docker for Advanced
 
 # :busts_in_silhouette: Contributors

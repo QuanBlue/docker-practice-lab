@@ -17,7 +17,7 @@
 
 ## Instructions
 
-> **Note:** How to create Docker in Docker (DinD) container: [Docker-VPS](https://github.com/QuanBlue/Docker-VPS)
+> **Note:** How to create Docker in Docker (DinD) container: [Docker-VPS-Guidebook](https://github.com/QuanBlue/Docker-VPS-Guidebook)
 
 Create `1 manager` and `2 worker` node(in 3 distinct terminal) and go inside, interact with them:
 
@@ -160,4 +160,4 @@ izapweuqdllr6g2z9nxtauebx     worker1    Ready     Active                       
 > **Note:** See detail at
 >
 > -  [XuanThuLab-youtube](https://www.youtube.com/watch?v=6a529awrb4Q&list=LL&index=13&t=314s&ab_channel=XuanThuLab)
-> -  [Docker-VPS](https://github.com/QuanBlue/Docker-VPS)
+> -  [Docker-VPS-Guidebook](https://github.com/QuanBlue/Docker-VPS-Guidebook)

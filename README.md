@@ -66,7 +66,7 @@
 
 ## :hammer_and_wrench: Create Docker VPS
 
--  [Docker-VPS](https://github.com/QuanBlue/Docker-VPS)
+-  [Docker-VPS-Guidebook](https://github.com/QuanBlue/Docker-VPS-Guidebook)
 
 # :world_map: Roadmap
 
@@ -97,7 +97,7 @@ Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for mor
 
 # :link: Related Projects
 
--  <u>[**Docker-VPS**](https://github.com/QuanBlue/Docker-VPS)</u>: Instruct how to create a VPS with Docker.
+-  <u>[**Docker-VPS**](https://github.com/QuanBlue/Docker-VPS-Guidebook)</u>: Instruct how to create a VPS with Docker.
 -  <u>[**Docker-cheatsheet**](https://github.com/QuanBlue/Docker-cheatsheet)</u>: Docker cheatsheet.
 
 ---

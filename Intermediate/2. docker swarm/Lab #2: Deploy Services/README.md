@@ -193,4 +193,4 @@ f83c08e539b8   node-service.8.ne9uz5qt8tenmuk80o1fven87   0.00%     4.996MiB / 1
 > **Note:** See detail at
 >
 > -  [XuanThuLab-youtube](https://www.youtube.com/watch?v=QcURXYCZSuY&list=LL&index=4&t=1082s&ab_channel=XuanThuLab)
-> -  [Docker-VPS](https://github.com/QuanBlue/Docker-VPS)
+> -  [Docker-VPS-Guidebook](https://github.com/QuanBlue/Docker-VPS-Guidebook)

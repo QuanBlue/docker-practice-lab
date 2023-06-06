@@ -211,4 +211,4 @@ Open browser and access to address bellow to check service, refresh to see load 
 > **Note:** See detail at
 >
 > -  [XuanThuLab-youtube](https://www.youtube.com/watch?v=fedUjqpfT0A&ab_channel=XuanThuLab)
-> -  [Docker-VPS](https://github.com/QuanBlue/Docker-VPS)
+> -  [Docker-VPS-Guidebook](https://github.com/QuanBlue/Docker-VPS-Guidebook)

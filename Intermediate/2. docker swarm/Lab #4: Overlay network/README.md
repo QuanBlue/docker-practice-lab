@@ -408,4 +408,4 @@ $ docker network inspect my_overlay_network
 > **Note:** See detail at
 >
 > -  [XuanThuLab-youtube](https://www.youtube.com/watch?v=aSQjoCqOx7k&t=1s&ab_channel=XuanThuLab)
-> -  [Docker-VPS](https://github.com/QuanBlue/Docker-VPS)
+> -  [Docker-VPS-Guidebook](https://github.com/QuanBlue/Docker-VPS-Guidebook)

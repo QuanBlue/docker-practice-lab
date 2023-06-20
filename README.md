@@ -41,15 +41,15 @@
 <details open>
 <summary><b>📖 Table of Contents</b></summary>
 
--  [:star: Key Features](#star-key-features)
--  [:toolbox: Getting Started](#toolbox-getting-started)
-   -  [:pushpin: Prerequisites](#pushpin-prerequisites)
-   -  [:hammer_and_wrench: Create Docker VPS](#hammer_and_wrench-create-docker-vps)
--  [:world_map: Roadmap](#world_map-roadmap)
--  [:busts_in_silhouette: Contributors](#busts_in_silhouette-contributors)
--  [:sparkles: Credits](#sparkles-credits)
--  [:scroll: License](#scroll-license)
--  [:link: Related Projects](#link-related-projects)
+-  [Key Features](#star-key-features)
+-  [Getting Started](#toolbox-getting-started)
+   -  [Prerequisites](#pushpin-prerequisites)
+   -  [Create Docker VPS](#hammer_and_wrench-create-docker-vps)
+-  [Roadmap](#world_map-roadmap)
+-  [Contributors](#busts_in_silhouette-contributors)
+-  [Credits](#sparkles-credits)
+-  [License](#scroll-license)
+-  [Related Projects](#link-related-projects)
 </details>
 
 # :star: Key Features
@@ -66,7 +66,7 @@
 
 ## :hammer_and_wrench: Create Docker VPS
 
--  [Docker-VPS-Guidebook](https://github.com/QuanBlue/Docker-VPS-Guidebook)
+-  [Docker-VPS](https://github.com/QuanBlue/Docker-VPS)
 
 # :world_map: Roadmap
 
@@ -76,15 +76,15 @@
 
 # :busts_in_silhouette: Contributors
 
-<a href="https://github.com/QuanBlue/Docker-practice-lab/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=QuanBlue/Docker-practice-lab" />
+<a href="https://github.com/QuanBlue/Docker-Practice-Lab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=QuanBlue/Docker-Practice-Lab" />
 </a>
 
 Contributions are always welcome!
 
 # :sparkles: Credits
 
-This software uses the following open source packages:
+This software uses the following open-source packages:
 
 -  [Docker](https://nodejs.org/)
 -  [Dockerlabs](https://dockerlabs.collabnix.com/)
@@ -97,7 +97,7 @@ Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for mor
 
 # :link: Related Projects
 
--  <u>[**Docker-VPS**](https://github.com/QuanBlue/Docker-VPS-Guidebook)</u>: Instruct how to create a VPS with Docker.
+-  <u>[**Docker-VPS**](https://github.com/QuanBlue/Docker-VPS)</u>: Instruct how to create a VPS with Docker.
 -  <u>[**Docker-cheatsheet**](https://github.com/QuanBlue/Docker-cheatsheet)</u>: Docker cheatsheet.
 
 ---
